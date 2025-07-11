@@ -42,11 +42,11 @@ const HeroSection = () => {
               Get Started
             </Button>
           </Link>
-          {/* <Link href="">
+          <Link href="https://drive.google.com/drive/folders/1MKbVKLuOB5trDM3kFNfuwoVdocnS4DBO">
             <Button size="lg" variant="outline" className="px-8">
               Watch Demo
             </Button>
-          </Link> */}
+          </Link>
         </div>
         <div className="hero-image-wrapper mt-5 md:mt-0">
           <div ref={imageRef} className="hero-image">
